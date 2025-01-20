@@ -5,5 +5,4 @@
 - 📫 Email : v109358@naver.com
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=관욱)](https://solved.ac/kungoki/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kungoki)](https://solved.ac/kungoki/)
