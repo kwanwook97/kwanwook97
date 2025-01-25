@@ -45,48 +45,60 @@
 
 ## 📊 GitHub Stats & 🏆 Code Test
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kwanwook97&show_icons=true&theme=radical)](https://github.com/kwanwook97)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kungoki)](https://solved.ac/kungoki/)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kwanwook97&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <a href="https://solved.ac/kungoki/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kungoki" alt="Solved.ac Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ 기술 스택
 
-<table>
-  <tr>
-    <th>Back-End</th>
-    <th>Front-End</th>
-    <th>DevOps</th>
-    <th>Collaboration & Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
-      <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" />
-      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <th>Back-End</th>
+      <th>Front-End</th>
+      <th>DevOps</th>
+      <th>Collaboration & Tools</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
+        <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" />
+        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
