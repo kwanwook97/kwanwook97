@@ -63,15 +63,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
-        <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis" />
+        <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
+        <img src="https://img.shields.io/badge/MyBatis-00A98F?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" />
-        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+        <img src="https://img.shields.io/badge/AJAX-008FC7?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" />
+        <img src="https://img.shields.io/badge/JSON-FFD43B?style=for-the-badge&logo=json&logoColor=black" alt="JSON" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
