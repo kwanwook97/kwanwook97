@@ -33,13 +33,13 @@
 
 ### BEST (_2024.11 - 2025.01_)
 - **버스회사 그룹웨어 시스템**
-- **GitHub:** [https://github.com/kwanwook97/best](https://github.com/kwanwook97/best)
 - BEST 사이트는 직원들의 업무 스케줄 관리, 기사님의 버스 노선 제공, 내부 공지 및 피드백 수집 기능을 통합하여 버스회사의 운영을 보다 체계적이고 효율적으로 관리할 수 있는 사이트입니다.
+- **GitHub:** [https://github.com/kwanwook97/best](https://github.com/kwanwook97/best)
 
 ### FitMate (_2024.09 - 2024.11_)
 - **운동 크루 사이트**
-- **GitHub:** [https://github.com/kwanwook97/semi_project](https://github.com/kwanwook97/semi_project)
 - FitMate는 헬스 MBTI 테스트를 통해 사용자가 자신의 운동 성향을 파악하고, 그에 맞는 운동 크루를 찾아 가입할 수 있으며 모임을 주최할 수 있도록 돕는 사이트입니다.
+- **GitHub:** [https://github.com/kwanwook97/semi_project](https://github.com/kwanwook97/semi_project) 
 
 ---
 
